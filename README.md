@@ -5,6 +5,7 @@ Sentiment Analysis of Tweets about President Trump using the twitter API, to det
 # Getting Started
 * Spyder with Python 3.7 
 * Access to a twitter developer account and API already set up.
+* You will need your own access and consumer keys which you can get in the twitter API
 
 # What I learned
  * How to scrape tweets using the twitter API app.
